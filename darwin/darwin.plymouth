@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Darwin OS X Plymouth
-Description=A Plymouth of OS X Yosemite
+Name=Darwin Plymouth
+Description=A awesome, sophisticated and minimalist Plymouth
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/darwin
-ScriptFile=/lib/plymouth/themes/darwin/darwin.script
+ImageDir=/usr/share/plymouth/themes/darwin
+ScriptFile=/usr/share/plymouth/themes/darwin/darwin.script
