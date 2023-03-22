@@ -43,7 +43,7 @@ Follow this instructions from a Terminal:
 
 2. Install it running these commands:
     ```bash
-    $ sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/darwin/darwin.plymouth 100
+    $ sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/darwin/darwin.plymouth 100
 
     $ sudo update-alternatives --config default.plymouth
     ```
